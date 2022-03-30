@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Annia 👋</h1>
 <h3 align="center">Software Quality Analyst in @banQi</h3> 
-<h3 align="center">Front-end Development Enthusiast</h3>
+<h3 align="center">Development Enthusiast</h3>
 
 <div align="left">
   <h3>👨‍💻 &nbsp; About Me</h3>
