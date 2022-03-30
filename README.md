@@ -48,6 +48,9 @@
 <div>
   <h3> 📈 &nbsp; Some statistics </h3>
   <img style="display:block" src="https://github-readme-stats.vercel.app/api?username=anniasebold&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br />
-  <img style="display:block"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniasebold&layout=compact&langs_count=5&theme=tokyonight"/>
+</div>
+
+<br />
+<div>
+  <h3>“Always remember: Your focus determines your reality” (Qui-Gon Jinn) 🚀</h3>
 </div>
