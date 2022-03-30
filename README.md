@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! I'm Annia Sebold!</h1>
-<h2 align="center">Software Quality Analyst in @banQi</h2> 
+<h1 align="center">Hey there! I'm Annia 👋</h1>
+<h3 align="center">Software Quality Analyst in @banQi</h3> 
 <h3 align="center">Front-end Development Enthusiast</h3>
 
 <div align="left">
@@ -9,7 +9,7 @@
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 🎓 &nbsp; Computer Technician at IFMS.
   - 📚 &nbsp; I'm currently learning Frontend Development with ReactJS and about Backend Development with NodeJS.
-  - 📚 &nbsp; My next objective is learning about mobile development with React Native.
+  - 📚 &nbsp; My next objective is learning about Mobile Development with React Native.
 </div>
 
 <div>
@@ -39,8 +39,8 @@
   <a href="https://www.linkedin.com/in/anniasebold/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a  href="https://www.instagram.com/anniasebold/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/anniasebold/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
 </div>
 
