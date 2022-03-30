@@ -52,5 +52,5 @@
 
 <br />
 <div>
-  <h3>“Always remember: Your focus determines your reality” (Qui-Gon Jinn) 🚀</h3>
+  <h4>“Always remember: Your focus determines your reality” (Qui-Gon Jinn) 🚀</h4>
 </div>
