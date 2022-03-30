@@ -34,7 +34,6 @@
   </p>
 </div>
 
-<br />
 <div>
   <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   <a href="https://www.linkedin.com/in/anniasebold/" target="_blank">
