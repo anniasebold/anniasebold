@@ -8,8 +8,8 @@
   - 💼 &nbsp; I'm currently working as Quality Analyst at banQi.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 🎓 &nbsp; Computer Technician at IFMS.
-  - 📚 &nbsp; I'm currently learning Frontend Development with ReactJS and Backend Development with NodeJS.
-  - 📚 &nbsp; My next objective is learning about Mobile Development with React Native.
+  - 📚 &nbsp; I'm currently learning Backend Development with NodeJS.
+  - 📚 &nbsp; My next objective is learning about Frontend Development with ReactJS.
 </div>
 
 <div>
