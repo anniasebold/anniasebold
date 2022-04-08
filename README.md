@@ -8,8 +8,7 @@
   - 💼 &nbsp; I'm currently working as Quality Analyst at banQi.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 🎓 &nbsp; Computer Technician at IFMS.
-  - 📚 &nbsp; I'm currently learning Backend Development with NodeJS.
-  - 📚 &nbsp; My next objective is learning about Frontend Development with ReactJS.
+  - 📚 &nbsp; I'm currently learning NodeJS and ReactJS.
 </div>
 
 <div>
@@ -21,8 +20,6 @@
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-    
-
   </p>
 
   <h3> 📚 &nbsp; Currently Learning</h3>
