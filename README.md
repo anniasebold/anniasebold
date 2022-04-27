@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! I'm Annia 👋</h1>
-<h3 align="center">Software Quality Analyst in @banQi</h3> 
+<h3 align="center">Backend Software Developer at @Incentivar</h3> 
 <h3 align="center">Development Enthusiast</h3>
 
 <div align="left">
   <h3>👨‍💻 &nbsp; About Me</h3>
 
-  - 💼 &nbsp; I'm currently working as Quality Analyst at banQi.
+  - 💼 &nbsp; I'm currently working as Backend Software Developer at Incentivar.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 🎓 &nbsp; Computer Technician at IFMS.
   - 📚 &nbsp; I'm currently learning NodeJS and ReactJS.
