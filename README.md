@@ -8,7 +8,7 @@
   - 💼 &nbsp; I'm currently working as Backend Software Developer at Incentivar.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 🎓 &nbsp; Computer Technician at IFMS.
-  - 📚 &nbsp; I'm currently learning NodeJS and ReactJS.
+  - 📚 &nbsp; I'm currently learning NodeJS.
 </div>
 
 <div>
@@ -26,7 +26,6 @@
   <h3> 📚 &nbsp; Currently Learning</h3>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </p>
 </div>
