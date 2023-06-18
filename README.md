@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Annia 👋</h2>
+<h1 align="center">Hey there! I'm Annia 👋</h1>
 <h3 align="center">Backend Software Developer at @Incentivar</h3> 
 <h3 align="center">Development Enthusiast</h3>
 
