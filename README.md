@@ -1,27 +1,35 @@
-<h1 align="center">Hey there! I'm Annia 👋</h1>
-<h3 align="center">Backend Software Developer at @Incentivar</h3> 
-<h3 align="center">Development Enthusiast</h3>
+<h2 align="center">Hey there! I'm Annia 👋</h2>
+<h3 align="center">Software Engineer</h3>
 
 <div align="left">
-  <h3>👨‍💻 &nbsp; About Me</h3>
+  <h4>👨‍💻 &nbsp; About Me</h4>
 
-  - 💼 &nbsp; I'm currently working as Backend Software Developer at Incentivar.
+  - 💼 &nbsp; I'm currently working as Software Engineer.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 🎓 &nbsp; Computer Technician at IFMS.
 </div>
 
 <div>
-  <h3> 💻 &nbsp; Languages and Tools </h3>
+  <h4> 💻 &nbsp; Languages and Tools </h4>
   <p>
     <img 
       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       alt="Javascript"/>
+    <img
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="Typescript"/>
+    <img
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="NodeJS"/>
     <img 
-      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-      alt="Java"/>
+      src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+      alt="React"/>
     <img 
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="Python"/>
+    <img 
+      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+      alt="Java"/>
     <img 
       src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"
       alt="C++"/>
@@ -31,6 +39,12 @@
     <img 
       src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
       alt="Ruby on Rails"/>
+    <img 
+      src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="AWS"/>
+    <img 
+      src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" 
+      alt="Jest"/>
     <img 
       src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
       alt="Swagger"/>
@@ -49,12 +63,6 @@
     <img 
       src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="CSS"/>
-    <img 
-      src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
-      alt="Figma"/>
-    <img 
-      src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
-      alt="Cypress"/>
     <img 
       src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"
       alt="Insomnia"/>
@@ -82,31 +90,11 @@
     <img
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="Github"/>
-    
-  </p>
-
-  <h3> 📚 &nbsp; Currently Learning</h3>
-  <p>
-    <img
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="Typescript"/>
-    <img
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="NodeJS"/>
-    <img 
-      src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-      alt="React"/>
-    <img 
-      src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-      alt="AWS"/>
-    <img 
-      src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" 
-      alt="Jest"/>
   </p>
 </div>
 
 <div>
-  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+  <h4> 🤝🏻 &nbsp;Connect with Me </h4>
   <a href="https://www.linkedin.com/in/anniasebold/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
@@ -117,5 +105,5 @@
 
 <br />
 <div>
-  <h3>🚀 “Always remember: Your focus determines your reality” (Qui-Gon Jinn) 🚀</h3>
+  <h5>🚀 “Always remember: Your focus determines your reality” (Qui-Gon Jinn) 🚀</h5>
 </div>
