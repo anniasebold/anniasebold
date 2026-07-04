@@ -14,6 +14,21 @@
   <h4> 💻 &nbsp; Languages and Tools </h4>
   <p>
     <img 
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"/>
+    <img
+      src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
+      alt="n8n"/>
+    <img
+      src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
+      alt="LangChain"/>
+    <img
+      src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"
+      alt="LangGraph"/>
+    <img
+      src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"
+      alt="LLMs"/>
+    <img 
       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       alt="Javascript"/>
     <img
@@ -25,9 +40,6 @@
     <img 
       src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
       alt="React"/>
-    <img 
-      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="Python"/>
     <img 
       src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
       alt="Java"/>
