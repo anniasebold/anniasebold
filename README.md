@@ -4,9 +4,10 @@
 <div align="left">
   <h4>👨‍💻 &nbsp; About Me</h4>
 
-  - 💼 &nbsp; I'm currently working as Software Engineer.
-  - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
-  - 🎓 &nbsp; Computer Technician at IFMS.
+  - 💼 &nbsp; I'm currently working as Software Engineer
+  - 🎓 &nbsp; B.Sc. in Information Systems (UFMS)
+  - 🎓 &nbsp;  Technical Degree in Computer Science (IFMS)
+
 </div>
 
 <div>
