@@ -102,6 +102,9 @@
   <a href="https://www.instagram.com/anniasebold/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
+  <a href="https://anniasebold.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-anniasebold.github.io-D6456B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
+  </a>
 </div>
 
 <br />
