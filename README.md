@@ -25,9 +25,6 @@
     <img
       src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"
       alt="LangGraph"/>
-    <img
-      src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"
-      alt="LLMs"/>
     <img 
       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       alt="Javascript"/>
